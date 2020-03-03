@@ -1,10 +1,10 @@
 # bilibili_download_thread
 ***
-一个bilibili视频多线程下载程序
-项目地址：
-https://github.com/Tangnameless/bilibili_download_thread
-主要参考项目：
-https://github.com/Henryhaohao/Bilibili_video_download
+一个bilibili视频多线程下载程序  
+项目地址:  
+https://github.com/Tangnameless/bilibili_download_thread  
+主要参考项目：  
+https://github.com/Henryhaohao/Bilibili_video_download  
 ***
 上传的主要目的也是记录一下自己学习大佬代码的成果和熟悉GitHub的使用
 
@@ -33,12 +33,12 @@ moviepy == 0.2.3.2
 requests == 2.21.0
 
 # 具体使用
-#####1.登录你的b站账号，获得cookie
-![cookie](/picture/cookie位置.png)
-#####2.设定下载的目录，填入cookie
-![设置](/picture/设置.png)
-#####3.下载视频
-![使用](/picture/使用示例.png)
+##### 1.登录你的b站账号，获得cookie
+![cookie](picture/cookie位置.png)
+##### 2.设定下载的目录，填入cookie
+![设置](picture/设置.png)
+##### 3.下载视频
+![使用](picture/使用示例.png)
 使用DownloadAvideo函数下载一个b站视频
 传入参数为
 start —— 视频av号或者视频链接地址
