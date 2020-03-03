@@ -32,13 +32,14 @@ python == 3.6.8
 moviepy == 0.2.3.2    
 requests == 2.21.0    
 
+
 # 具体使用
 ##### 1.登录你的b站账号，获得cookie
-![cookie](https://github.com/Tangnameless/bilibili_download_thread/raw/master/picture/cookie位置.png)
+![](https://github.com/Tangnameless/bilibili_download_thread/blob/master/picture/cookie位置.PNG)
 ##### 2.设定下载的目录，填入cookie
-![设置](https://github.com/Tangnameless/bilibili_download_thread/raw/master/picture/设置.png)
+![](https://github.com/Tangnameless/bilibili_download_thread/blob/master/picture/设置.PNG)
 ##### 3.下载视频
-![使用](https://github.com/Tangnameless/bilibili_download_thread/raw/master/picture/使用示例.png)
+![](https://github.com/Tangnameless/bilibili_download_thread/blob/master/picture/使用示例.PNG)
 使用DownloadAvideo函数下载一个b站视频  
 传入参数为  
 start —— 视频av号或者视频链接地址  
