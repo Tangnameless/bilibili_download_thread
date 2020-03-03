@@ -1,9 +1,9 @@
 # bilibili_download_thread
 ***
-一个bilibili视频多线程下载程序  
-项目地址:  
+一个bilibili视频多线程下载程序
+项目地址：
 https://github.com/Tangnameless/bilibili_download_thread  
-主要参考项目：  
+主要参考项目：
 https://github.com/Henryhaohao/Bilibili_video_download  
 ***
 上传的主要目的也是记录一下自己学习大佬代码的成果和熟悉GitHub的使用
