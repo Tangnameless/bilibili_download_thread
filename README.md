@@ -1,7 +1,7 @@
 # bilibili_download_thread
 ***
-一个bilibili视频多线程下载程序
-项目地址：
+一个bilibili视频多线程下载程序  
+项目地址：  
 https://github.com/Tangnameless/bilibili_download_thread  
 主要参考项目：
 https://github.com/Henryhaohao/Bilibili_video_download  
@@ -28,21 +28,21 @@ Python是运行在解释器中的语言，python中有一个全局锁（GIL）�
 大批量下载的后期，出现无法获取分P视频的title情况
 
 # 环境
-python == 3.6.8
-moviepy == 0.2.3.2
-requests == 2.21.0
+python == 3.6.8  
+moviepy == 0.2.3.2  
+requests == 2.21.0  
 
 # 具体使用
 ##### 1.登录你的b站账号，获得cookie
-![cookie](picture/cookie位置.png)
+![cookie](https://github.com/Tangnameless/bilibili_download_thread/tree/master/picture/cookie位置.png)
 ##### 2.设定下载的目录，填入cookie
-![设置](picture/设置.png)
+![设置](https://github.com/Tangnameless/bilibili_download_thread/tree/master/picture/设置.png)
 ##### 3.下载视频
-![使用](picture/使用示例.png)
-使用DownloadAvideo函数下载一个b站视频
-传入参数为
-start —— 视频av号或者视频链接地址
-quality —— 视频清晰度
+![使用](https://github.com/Tangnameless/bilibili_download_thread/tree/master/picture/使用示例.png)
+使用DownloadAvideo函数下载一个b站视频  
+传入参数为  
+start —— 视频av号或者视频链接地址  
+quality —— 视频清晰度  
 
 可选值 | 视频质量质量 |是否需要大会员
 -|-|-
